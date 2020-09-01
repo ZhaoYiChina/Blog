@@ -1,20 +1,20 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+title: George Zhao
+description: 'Buiness Card Page'
+url: 'http://zhaoyichina.github.com'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/me.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'George Zhao'
+  email: 982670572@qq.com
+  twitter_username: zhaoyichina
 #  facebook_username: joshgerdes
   github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
+  linkedin_username:  赵毅
   meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
